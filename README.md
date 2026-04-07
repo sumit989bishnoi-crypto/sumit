@@ -1,12 +1,3 @@
----
-title: CodeRescue
-emoji: 🐛
-colorFrom: blue
-colorTo: green
-sdk: docker
-pinned: false
----
-
 CodeRescue
 About This AI:-
 1. CodeRescue is an AI tool that analyzes and fixes your broken code automatically.
